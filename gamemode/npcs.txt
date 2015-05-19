@@ -1,0 +1,20 @@
+npc_antlion
+npc_antlionguard
+npc_citizen
+npc_combinedropship
+npc_combinegunship (use give to spawn)
+npc_combine_camera
+npc_combine_s
+npc_cscanner
+npc_fastzombie
+npc_headcrab
+npc_headcrab_fast
+npc_headcrab_black
+npc_helicopter (use give to spawn)
+npc_manhack
+npc_metropolice
+npc_poisonzombie
+npc_rollermine (use give to spawn)
+npc_strider
+npc_zombie
+npc_zombie_torso

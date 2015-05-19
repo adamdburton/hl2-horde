@@ -1,0 +1,7 @@
+"hl2horde"
+{
+	"base"		"base"
+	"title"		"HL2: Horde"
+	"maps"		"^ho_"
+	"menusystem"	"1"
+}
